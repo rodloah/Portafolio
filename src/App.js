@@ -45,7 +45,7 @@ function App() {
             LinkedIn
           </a>
           <a 
-            href="https://api.whatsapp.com/send?phone=51951398348&text=Hola%20Valeria%2C%20quisiera%20consultarte%20sobre%20un%20tema%20de%20desarrollo%20web.%20%F0%9F%91%8D" 
+            href="https://api.whatsapp.com/send?phone=51951398348&text=Hola%20Rodrigo%2C%20quisiera%20conversar%20sobre%20un%20tema%20de%20desarrollo%20Back-End.%20%F0%9F%91%8D" 
             target="_blank" 
             rel="noopener noreferrer"
             className="btn whatsapp"
